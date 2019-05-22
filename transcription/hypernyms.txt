@@ -1,0 +1,191 @@
+deictic: person (instance), time, physical entity, attention direction, abstract entity
+iconic: size of physical entity, distance, physical entity
+metaphoric: motion, position of physical entity, physical entity, abstract entity
+
+bicycles:
+
+
+deictic
+
+artist Leonardo Da Vinci: person (instance)
+in 1492*: time
+300 years later: time
+in 1817*: time
+adding a front* wheel*: physical entity
+really hard to pedal: physical description 
+many credit Kirkpatrick (MacMillan): person (instance)
+made a real* wheel* driven machine: physical entity
+a British* engineer* named (James Sterling): person (instance)
+Penny Farthings had a large* front* (wheel): physical entity
+as you can see the: attention direction
+so that when the rider: person
+adding a third* wheel*: physical entity
+mid-1880s* the: time
+the machine look like a modern bicycle with equal: physical entity
+chain* drive* and: physical entity
+although the Rover* was much: physical entity
+worldwide* craze: abstract entity
+keeping the basic shape* of the Rover: physical entity
+bike boomed* after World War (I): physical entity
+10-speed* bikes* were: physical entity
+
+artist:create/person/organism/living thing/whole/objects/physical entity/entity 
+300: cardinal
+really: true/genuine/real/actual/intensifier
+pedals: lever/bar/implement/instrumentality/artifact/whole/object/physical entity/entity
+Penny: 
+as: equal
+so:
+adding: increase/change magnitude/change
+mid-1880s: decade/time period/fundamental/quantity/measure/abstraction/entity
+chain: ligament/attachment/connection/instrumentality/artifact/whole/object/physical object/entity
+although: 
+worldwide: international
+keeping:
+bike: wheeled vehicle/vehicle/conveyance/transport/instrumentality/artifact/whole/object/physical object/entity
+10-speed: large integer/integer/number/definite quantity/measure/abstraction/entity
+rate/magnitude/relation/abstraction/entity
+
+
+iconic
+
+was "invented": quote
+a small* black back wheel: size of physical entity
+travel farther* with one rotation the (pedal): distance
+carnooishly* large*: size of physical entity
+as sixty* inches* off the (ground): distance
+equal sized wheels and: size of physical entity
+wider* tires* and: size of physical entity
+
+was: 
+small: size
+travel: move, displace
+cartoon: wit/message/communication/abstraction/entity
+as: equal
+equal: equality
+wider: width breath/dimension/magnitude/property/attribute/abstraction/entity
+
+
+
+metaphoric
+
+develop separately* at: adverb
+wheels connected by a beam* but: position of physical entities
+or a steering* (mechanism): motion
+straddling* the beam: motion
+and pushing* with (their feet): motion 
+hard to move* along* the unpaved (road): motion
+all through Europe in the US just: adverb 
+rider's seat position right between* them and above (the pedals): position of physical entities
+absorb* shocks from: motion
+absorb* the road shocks: motion
+go up* and down* hills: motion
+fly*: motion
+
+
+develop: make create
+wheels: machine/mechanical device/mechanism/device/instrumentality/artifact/whole/object/physical object/entity
+or: 
+straddle: be
+and: 
+hard: difficulty
+all:
+position: point/location/object/physical entity/entity
+right: correctness
+absorb: 
+
+
+invitation gestures 0:37: anyway, now 2:46, what to do 03:23
+
+
+
+perspectives:
+
+deictic
+
+which (refers to aerial perspective): abstract entity (direction of attention)
+at distant* locations: physical entity
+cityscapes like Dido* building* in Carthage*: physical entity
+perspective linear* perspective* is: abstract entity
+a cube* (with): physical entity
+it on the horizon but a cube with a vertical* edge*: physical entity
+there's also the same cube* can be: physical entity 
+have three* vanishing points: physical entity
+you look at a corner*: physical entity
+look* down* one street*: motion (direction of attention)
+(vanishing) point look* down* the cross* street*: motion (direction of attention)
+(left-hand vanishing point) if you look* up*: motion (direction of attention)
+paintings inside Egyptian* Pyramids*: physical entity
+illustrations in medieval* Christian* churches*: physical entity
+of San* Giovanni*: person (instance)
+leaving the viewer* peeping: person
+
+
+iconic
+happens whenever parallel* lines like the 2* train* tracks* or tops* of telephone: physical entity
+larger* or: size of physical entity
+
+
+metaphoric
+
+represent three-dimensional* objects on their two-dimensional* canvas: position of physical entity
+aerial meaning air or atmospheric*, not your view from an airplane* aerial: abstract entity
+hazier* or less (distinct): description of objects
+line of telephone pole running* (away from us): motion
+vanish* to a point on the horizon: motion
+(called) the vanishing* point* the: abstract entity
+move* in the same direction: motion
+us has a single* vanishing point: abstract entity (number)
+facing us has two* vanishing point one* to the right* one* to the left* at: position of physical entity (number)
+are left and right respectively* on the horizon: position of physical entity
+(parallel) line of the phases converge*	: motion
+above or below perspective: position of physical entity
+one to the right* one to the left*: position of physical entity
+one behind* it either below* or above* the horizon: position of physical entity
+sets of parallel* lines*: physical entity
+but they weren't* really* able to: motion
+to cover* up* people that were father (away): position of physical entity
+and then he made a small peep* hole* in: motion
+having them look* through* that peep* hole*: motion
+which reflected* the image: motion
+would quickly withdraw*: motion
+peeping* at the actual baptistery whose perspective have been replicated* perfectly*: motion
+
+invitation gestures: morning everyone 0:00, first 0:05, and then 0:10
+
+
+tarmac
+
+
+deictic
+
+
+
+iconic
+
+
+
+metaphoric 
+
+we don't use* tarmac: motion
+it's been supplanted* that: motion
+upstaged*: motion
+of strengthening* paved (roads): motion
+water drains* down roadways: motion
+covered* with three* layers of angular (gravel): position of physical entity (number)
+was compacted* by a heavy* MO*: motion
+raised* swirls of debris making: motion
+mixture* of: abstract entity
+roads throughout* England were resurfaced: motion
+and other paved airport* areas*: physical entity
+tarmac spread* to United (States): motion
+more resilient* than car: description of physical entity
+in a wider* range* of temperature: position of physical entity??
+and cement* brick: motion
+from two* large* lakes* in: number
+make it more fluid* than: description of physical entity
+their heels dented* the street: motion
+slowly filled* up and soothed* themselves out: motion
+
+
+invitation gestures: 
